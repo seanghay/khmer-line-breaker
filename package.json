@@ -2,6 +2,7 @@
   "name": "khmer-line-breaker",
   "version": "0.1.0",
   "description": "The lightweight Khmer line breaker with no dependencies.",
+  "repository": "seanghay/khmer-line-breaker",
   "author": {
     "name": "Seanghay Yath",
     "email": "seanghay.dev@gmail.com",
