@@ -1,0 +1,15 @@
+{
+  "name": "khmer-line-breaker",
+  "version": "0.1.0",
+  "description": "The lightweight Khmer line breaker with no dependencies.",
+  "author": {
+    "name": "Seanghay Yath",
+    "email": "seanghay.dev@gmail.com",
+    "url": "https://github.com/seanghay"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
